@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shoro\\source\\repos\\Lab3\\Lab3\\Lab3.csproj",
+      "projectUniqueName": "C:\\Users\\shoro\\Рабочий стол\\CourseWork_MS_CSharp\\CourseWork\\Lab3\\Lab3.csproj",
       "projectName": "Lab3",
-      "projectPath": "C:\\Users\\shoro\\source\\repos\\Lab3\\Lab3\\Lab3.csproj",
+      "projectPath": "C:\\Users\\shoro\\Рабочий стол\\CourseWork_MS_CSharp\\CourseWork\\Lab3\\Lab3.csproj",
       "packagesPath": "C:\\Users\\shoro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shoro\\source\\repos\\Lab3\\Lab3\\obj\\",
+      "outputPath": "C:\\Users\\shoro\\Рабочий стол\\CourseWork_MS_CSharp\\CourseWork\\Lab3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\shoro\\AppData\\Roaming\\NuGet\\NuGet.Config",
