@@ -1,0 +1,10 @@
+C:\Users\shoro\Рабочий стол\CourseWork_MS_CSharp\CourseWork\Lab3\bin\Release\netcoreapp3.0\Lab3.exe
+C:\Users\shoro\Рабочий стол\CourseWork_MS_CSharp\CourseWork\Lab3\bin\Release\netcoreapp3.0\Lab3.deps.json
+C:\Users\shoro\Рабочий стол\CourseWork_MS_CSharp\CourseWork\Lab3\bin\Release\netcoreapp3.0\Lab3.runtimeconfig.json
+C:\Users\shoro\Рабочий стол\CourseWork_MS_CSharp\CourseWork\Lab3\bin\Release\netcoreapp3.0\Lab3.runtimeconfig.dev.json
+C:\Users\shoro\Рабочий стол\CourseWork_MS_CSharp\CourseWork\Lab3\bin\Release\netcoreapp3.0\Lab3.dll
+C:\Users\shoro\Рабочий стол\CourseWork_MS_CSharp\CourseWork\Lab3\bin\Release\netcoreapp3.0\Lab3.pdb
+C:\Users\shoro\Рабочий стол\CourseWork_MS_CSharp\CourseWork\Lab3\obj\Release\netcoreapp3.0\Lab3.AssemblyInfoInputs.cache
+C:\Users\shoro\Рабочий стол\CourseWork_MS_CSharp\CourseWork\Lab3\obj\Release\netcoreapp3.0\Lab3.AssemblyInfo.cs
+C:\Users\shoro\Рабочий стол\CourseWork_MS_CSharp\CourseWork\Lab3\obj\Release\netcoreapp3.0\Lab3.dll
+C:\Users\shoro\Рабочий стол\CourseWork_MS_CSharp\CourseWork\Lab3\obj\Release\netcoreapp3.0\Lab3.pdb
